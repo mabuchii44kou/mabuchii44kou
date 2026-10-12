@@ -1,6 +1,6 @@
 # Hey there, I'm Ayan 👋
 
-I am a Computer Science & Engineering practitioner driven by a deep curiosity for how digital systems work under the hood, how to build them efficiently, and how to audit them securely. 
+I am a Computer Science Engineering Student driven by a deep curiosity for how digital systems work under the hood, how to build them efficiently, and how to audit them securely. 
 
 My engineering workflow balances clean frontend design architecture with active hands-on scripting and security environment testing.
 
