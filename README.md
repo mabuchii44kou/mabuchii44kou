@@ -1,4 +1,4 @@
-# Hey there, I'm Ayan (Mabuchi) 👋
+# Hey there, I'm Ayan 👋
 
 I am a Computer Science & Engineering practitioner driven by a deep curiosity for how digital systems work under the hood, how to build them efficiently, and how to audit them securely. 
 
